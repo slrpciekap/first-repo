@@ -11,3 +11,6 @@ print("쉽지않네...")
 
 print("github 코딩 연습2")
 print("쉽지않네...2")
+
+print("github 코딩 연습2")
+print("쉽지않네...2")
